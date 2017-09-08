@@ -1,0 +1,26 @@
+body {
+	width: 50%;
+	border: 20px solid #bdc3c7;
+	margin: auto;
+	font-family: source sans pro;
+}
+
+h3 {
+	text-transform: uppercase;
+	color: #3498db;
+	letter-spacing: 2px;
+}
+
+.main {
+	padding: 5%;
+}
+
+.last {
+	border-bottom: 2px solid #f1f1f1;
+	padding-bottom: 20px;
+}
+
+.sneak {
+	border-left: 6px solid #bdc3c7;
+	padding-left: 10px;
+}
