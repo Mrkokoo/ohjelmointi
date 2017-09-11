@@ -1,5 +1,6 @@
 body {
-	width: 50%;
+	max-width: 900px;
+	width: 80%;
 	border: 20px solid #bdc3c7;
 	margin: auto;
 	font-family: source sans pro;
