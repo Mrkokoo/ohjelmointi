@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>asd</title>
+</head>
+<body>
+
+
+<button class="btn">CLICK ME</button>
+
+<script type="text/javascript">
+console.log("Hello!");
+	button = document.querySelector("button");
+	button.addEventListener("click",function() {
+		var body = document.querySelector("body");
+		if (body.style.background == "orange none repeat scroll 0% 0%") {
+			body.style.background = "white none repeat scroll 0% 0%"
+		} else {
+			body.style.background = "orange none repeat scroll 0% 0%"
+		}
+	});
+
+</script>
+</body>
+</html>
