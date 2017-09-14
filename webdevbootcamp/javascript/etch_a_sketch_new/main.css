@@ -1,0 +1,29 @@
+body {
+    background: #f1f1f1;
+    text-align: center;
+}
+
+.etchGrid {
+    border: 1px solid black;
+    padding: 3px;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+}
+
+#nappi {
+    padding-bottom: 25px;
+}
+
+#etch {
+    clear: both;
+    margin: auto;
+    padding-top: 25px;
+    width: 800px;
+    height: 800px;
+    border: 2px solid black;
+}
+
+.paint {
+    background-color: orange;
+}
